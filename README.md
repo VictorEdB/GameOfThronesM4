@@ -38,7 +38,7 @@ Pergunta 5:
 
 ![grafico5](https://user-images.githubusercontent.com/114101613/216717425-9aafa844-aed7-4f66-874c-feb6c654cede.jpeg)
 
-
+<ul>
 Respostas:
 
 ⇨ Quais os 5 episódios mais comentados pela internet?
@@ -102,3 +102,4 @@ Terceiro lugar: The Iron Throne
 Quarto lugar: The Last of the Starks
 
 Quinto lugar: The Bells
+</ul>
