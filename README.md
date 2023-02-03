@@ -1,6 +1,9 @@
 # GameOfThronesM4
 
+<h3>
 Contexto
+</h3>
+
 Temos um problema e precisaremos da sua ajuda para resolver!
 Acumulamos alguns conjuntos de dados e não conseguimos ter
 uma visão padronizada desses dados.
@@ -11,7 +14,10 @@ um dashboard com base no conjunto de dados
 escolhidos pela gente, a fim de realizar uma
 apresentação com a exploração dos dados.
 
+<h3>
 Projeto
+</h3>
+
 Pergunta 1:
 
 ![grafico1](https://user-images.githubusercontent.com/114101613/216717294-4ff7b409-3efa-442f-8a7d-90acc18b6911.jpeg)
